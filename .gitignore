@@ -6,3 +6,4 @@ node_modules*
 /server/lib/*
 package-lock.json
 **/*.tern-port
+data/
