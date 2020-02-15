@@ -2,8 +2,7 @@
 .#*
 node_modules*
 .DS_store
-/server/data/*
-/server/lib/*
+/lib/*
 package-lock.json
 **/*.tern-port
 data/
